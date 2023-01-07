@@ -1,0 +1,15 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 263.324371
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 9.999999 C:\\Users\Sidouw\Desktop\Synthese\Projet\Projet\tree\grass_norm.png
+map_Kd C:\\Users\Sidouw\Desktop\Synthese\Projet\Projet\tree\grass_dif.jpg
+map_Ks C:\\Users\Sidouw\Desktop\Synthese\Projet\Projet\tree\grass_spec.png
