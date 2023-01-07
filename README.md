@@ -10,7 +10,7 @@ C++, OpenGL
 
 ## Gif
 
-![App Screenshot](https://s3.gifyu.com/images/aaa968e08488983a9a2.gif)
+![App Screenshot](https://i.ibb.co/3rBgyQP/aaa.gif)
 
 https://learnopengl.com/
 
